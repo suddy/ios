@@ -13,6 +13,7 @@ int main (int argc, const char * argv[])
 
     // insert code here...
     CFShow(CFSTR("Hello, World!\n"));
+    CFShow(CFSTR("Hello, World!\n"));
     return 0;
 }
 
